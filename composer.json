@@ -71,5 +71,6 @@
             "Alchemy\\Tests\\BinaryDriver\\": "tests/Alchemy/BinaryDriver",
             "Tests\\FFMpeg\\": "tests/FFMpeg"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
